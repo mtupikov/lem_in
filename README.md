@@ -56,7 +56,6 @@ the_links
 ## Visualisation
 
 Need to press **Enter** to start moving ants.
-![Doom](https://raw.githubusercontent.com/mtupikov/wolf_3d/master/doom.png)
 
 ![Simple map](https://raw.githubusercontent.com/mtupikov/lem_in/blob/master/simple%20map.png)
 ![More complex map](https://raw.githubusercontent.com/mtupikov/lem_in/blob/master/more%20complex%20map.png)
