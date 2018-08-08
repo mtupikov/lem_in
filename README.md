@@ -57,5 +57,5 @@ the_links
 
 Need to press **Enter** to start moving ants.
 
-![Simple map](https://raw.githubusercontent.com/mtupikov/lem_in/blob/master/simple%20map.png)
-![More complex map](https://raw.githubusercontent.com/mtupikov/lem_in/blob/master/more%20complex%20map.png)
+![Simple map](https://raw.githubusercontent.com/mtupikov/lem_in/master/simple%20map.png)
+![More complex map](https://raw.githubusercontent.com/mtupikov/lem_in/master/more%20complex%20map.png)
